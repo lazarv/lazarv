@@ -3,7 +3,7 @@
 I’m Viktor Lázár, a passionate full-stack developer. Currently, I'm focused on building and refining a React meta-framework using Vite, known as `@lazarv/react-server`.
 
 #### 🎤 About Me
-🔭 I’m currently working on [@lazarv/react-server](https://github.com/lazarv/react-server) - the easiest way to build React apps with server-side rendering
+🔭 I’m currently working on [@lazarv/react-server](https://github.com/lazarv/react-server) - the easiest way to build React apps with server-side rendering  
 🌱 I’m proficient in JavaScript, TypeScript, React, Node.js, C/C++, Go and Rust  
 🤔 I’m looking for help with [@lazarv/react-server](https://github.com/lazarv/react-server)  
 💬 Ask me about full-stack development, JavaScript, TypeScript, React, Node.js, WebAssembly, WebGL, game development and 3D  
