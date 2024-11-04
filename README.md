@@ -10,7 +10,7 @@ I’m Viktor Lázár, a passionate full-stack developer. Currently, I'm focused 
 📫 How to reach me: [X/Twitter](https://x.com/lazarv1982) [dev.to](https://dev.to/lazarv)
 
 #### 🤩 Notable Projects
-[@lazarv/react-server](https://github.com/lazarv/react-server) - the easiest way to build React apps with server-side rendering
+[@lazarv/react-server](https://github.com/lazarv/react-server) - the easiest way to build React apps with server-side rendering  
 [WAD Commander](https://wadcmd.com) - a tool to load and play WAD files of DOOM® and DOOM II®.  
 [HTML5 Wolfenstein 3D](http://users.atw.hu/wolf3d) - HTML5 port of Wolfenstein 3D  
 
